@@ -33,7 +33,7 @@ jsonfield==1.0.3
 lxml==3.4.4
 Pillow==2.8.1
 pytz==2013b
-requests==2.7.0
+requests==2.20.0
 simplejson==3.7.1
 tablib==0.10.0
 ua-parser==0.3.6
