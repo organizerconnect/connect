@@ -25,7 +25,7 @@ django-heroku-memcacheify==0.8
 # well outside of heroku
 gevent==1.0.2
 greenlet==0.4.1
-gunicorn==18.0
+gunicorn==19.5.0
 
 
 # Include the common requirements
