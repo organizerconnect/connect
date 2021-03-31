@@ -30,7 +30,7 @@ django_extensions==1.5.5
 flanker==0.4.29
 geopy==1.10.0
 jsonfield==1.0.3
-lxml==3.4.4
+lxml==4.6.3
 Pillow==6.2.0
 pytz==2013b
 requests==2.20.0
