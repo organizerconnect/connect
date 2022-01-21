@@ -71,7 +71,7 @@ nosexcover==1.0.10
 # Useful packages for Debugging
 django-clear-cache==0.3
 django-debug-toolbar==1.5
-ipython==3.1.0
+ipython==7.16.3
 
 
 # Authentication Libraries
